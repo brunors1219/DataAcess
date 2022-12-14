@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+    
+}
+
+#area-nav {
+    width: 100%;
+    float: right;
+    background: none;
+    padding: 25px 35px;
+    background: rgb(255, 255, 255) url('../img/logo\ vertical\ -\ color.png') no-repeat left;
+    background-size: 170px;
+    background-position-x: 40px;
+    top: 0;
+    box-shadow: 1px 1px 10px rgb(3, 3, 3);
+
+}
+ #area-nav2 .menu-bar{
+    display: block;
+ }
+
+body{
+    background-color: rgba(42, 241, 52, 0.329);
+}
